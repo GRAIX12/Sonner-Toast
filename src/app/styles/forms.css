@@ -1,0 +1,17 @@
+.add-user-form {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.add-user-input {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  flex-grow: 1;
+}
+
+.add-user-input:focus {
+  outline: none;
+  border-color: #2196F3;
+}

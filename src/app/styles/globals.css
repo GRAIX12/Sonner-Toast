@@ -1,0 +1,17 @@
+@import "./forms.css";
+@import "./table.css";
+@import "./modals.css";
+@import "./layout.css";
+
+body {
+  background-color: #f3f4f6;
+  font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 1rem;
+}

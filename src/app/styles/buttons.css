@@ -1,0 +1,58 @@
+.logout-button {
+  background-color: #f44336;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.875rem;
+  transition: background-color 0.2s;
+  margin-left: auto;
+}
+
+.logout-button:hover {
+  background-color: #d32f2f;
+}
+
+.add-user-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.875rem;
+  transition: background-color 0.2s;
+  margin-bottom: 1rem;
+}
+
+.add-user-button:hover {
+  background-color: #388E3C;
+}
+
+.action-button {
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.edit-button {
+  background-color: #2196F3;
+  margin-right: 0.5rem;
+}
+
+.edit-button:hover {
+  background-color: #1976D2;
+}
+
+.delete-button {
+  background-color: #f44336;
+}
+
+.delete-button:hover {
+  background-color: #d32f2f;
+}
